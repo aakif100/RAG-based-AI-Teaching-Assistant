@@ -25,13 +25,14 @@ import torch
 device = "cuda" if torch.cuda.is_available() else "cpu"
 print(f"Using device: {device}")
 
-model = whisper.load_model("small", device=device)  #  Pass device here
-print(f"Model on: {next(model.parameters()).device}")
+model = whisper.load_model("medium", device=device)  #  Pass device here and it uses gpu if available
+print(f"Model on: {next(model.parameters()).device}") # not really necessary, just to confirm device
 
 result = model.transcribe(
     audio="audios/12_Exercise 1 - Pure HTML Media Player.mp3",
     language="hi",
-    task="translate"
+    task="translate",
+    fp16 = False
 )
 
 print(result["text"])
