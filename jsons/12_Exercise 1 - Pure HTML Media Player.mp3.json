@@ -1,0 +1,425 @@
+{
+    "chunks": [
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 0.0,
+            "end": 6.5600000000000005,
+            "text": " Guys, in today's video, I will give you an exercise and I will also give shout out to all the people who will solve this exercise."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 6.5600000000000005,
+            "end": 9.84,
+            "text": " So, please write in the comment section, challenge accepted."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 9.84,
+            "end": 15.36,
+            "text": " If you accept my challenge, I will give you a question and you will have to solve it."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 15.36,
+            "end": 21.080000000000002,
+            "text": " And it will be based on the concepts we have studied in the Sigma Web Development course."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 21.080000000000002,
+            "end": 24.04,
+            "text": " So, I am very excited to give you a question."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 24.04,
+            "end": 25.96,
+            "text": " I hope you are equally excited."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 25.96,
+            "end": 27.36,
+            "text": " Let's roll the intro."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 30.0,
+            "end": 36.4,
+            "text": " Intro"
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 36.4,
+            "end": 38.4,
+            "text": " So guys, I am here on my computer screen."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 38.4,
+            "end": 42.96,
+            "text": " As you can see, if you haven't accessed the playlist yet, then click here and bookmark it."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 42.96,
+            "end": 44.96,
+            "text": " Click here and save it."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 44.96,
+            "end": 49.6,
+            "text": " And if you haven't accessed the code, then it is all updated on the GitHub till video 11."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 49.6,
+            "end": 52.24,
+            "text": " And I will keep updating as the videos will keep moving forward."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 52.24,
+            "end": 56.32,
+            "text": " Now, the question I want to give you here, I will first make a folder."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 56.32,
+            "end": 58.8,
+            "text": " I will definitely name the folder video 12."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 58.879999999999995,
+            "end": 60.879999999999995,
+            "text": " I will shift right click and open with code."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 60.879999999999995,
+            "end": 62.879999999999995,
+            "text": " And everyone should accept this challenge."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 62.879999999999995,
+            "end": 65.36,
+            "text": " If you accept it, I will feel good."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 65.36,
+            "end": 71.67999999999999,
+            "text": " What you guys do here is, I will make index.html here and I will give you a question."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 71.67999999999999,
+            "end": 78.88,
+            "text": " So, the question is, you are given 12 video files."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 78.88,
+            "end": 82.24,
+            "text": " Okay, 12 files, 6 audio and 6 video."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 84.08,
+            "end": 86.08,
+            "text": " And 6 video."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 86.48,
+            "end": 90.48,
+            "text": " Design a website using HTML only."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 91.36,
+            "end": 96.0,
+            "text": " And which shows these 12 files."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 96.8,
+            "end": 100.16,
+            "text": " Okay, I will toggle word wrap here so that you can see it."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 100.16,
+            "end": 102.16,
+            "text": " Word wrap."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 102.16,
+            "end": 104.16,
+            "text": " So, you have to do that you are given 12 files."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 104.16,
+            "end": 106.16,
+            "text": " And what are the names of those files?"
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 106.16,
+            "end": 108.16,
+            "text": " 1.mp3, 2.mp3."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 108.16,
+            "end": 111.36,
+            "text": " So, I will tell you the names of those files."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 111.36,
+            "end": 116.0,
+            "text": " 1.mp3, 2.mp3, all the way till 6.mp3."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 116.96,
+            "end": 123.84,
+            "text": " Then you have 1.mp4, 2.mp4, all the way till 6.mp4."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 123.84,
+            "end": 125.84,
+            "text": " Okay, these are the files."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 125.84,
+            "end": 129.84,
+            "text": " So, you have to preview all these 12 files."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 129.84,
+            "end": 131.84,
+            "text": " So, I hope this will be done."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 131.84,
+            "end": 133.84,
+            "text": " It's a very simple question."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 133.84,
+            "end": 136.96,
+            "text": " And you guys should comment and write challenge accepted."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 136.96,
+            "end": 140.96,
+            "text": " Because if you accept this challenge, then you should write challenge accepted in the first version."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 140.96,
+            "end": 145.28,
+            "text": " And whoever will give me their code here, I will shout out to them."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 145.28,
+            "end": 149.28,
+            "text": " So, if you write challenge accepted, you will get shout out for sure."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 149.28,
+            "end": 151.28,
+            "text": " And you guys should comment in the comment section."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 151.28,
+            "end": 153.28,
+            "text": " So, I hope you guys will complete this."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 153.28,
+            "end": 155.28,
+            "text": " And it's a very simple problem."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 155.28,
+            "end": 157.28,
+            "text": " I know many people will say that it's very simple."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 157.28,
+            "end": 161.28,
+            "text": " One more thing I would like to say to you guys is that"
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 161.28,
+            "end": 167.28,
+            "text": " you should try to use as much concepts as possible to solve this question."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 167.28,
+            "end": 169.28,
+            "text": " So, this was our question for today."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 169.28,
+            "end": 171.28,
+            "text": " I hope you guys liked it."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 171.28,
+            "end": 173.28,
+            "text": " I will select this and do CTRL forward slash."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 173.28,
+            "end": 177.28,
+            "text": " And by doing CTRL forward slash, you can comment or un-comment."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 177.28,
+            "end": 181.28,
+            "text": " So, if I press CTRL forward slash, it will un-comment."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 181.28,
+            "end": 183.28,
+            "text": " And if I press CTRL forward slash again, it will comment."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 183.28,
+            "end": 185.28,
+            "text": " So, you have to complete this website."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 185.28,
+            "end": 187.28,
+            "text": " It's a very simple problem."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 187.28,
+            "end": 189.28,
+            "text": " It's a straightforward problem."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 189.28,
+            "end": 191.28,
+            "text": " Everyone should solve this."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 191.28,
+            "end": 193.28,
+            "text": " So, that's it for today."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 193.28,
+            "end": 195.28,
+            "text": " Thank you so much guys for watching this video."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 195.28,
+            "end": 197.28,
+            "text": " And I will see you next time."
+        },
+        {
+            "number": "12",
+            "title": "Exercise 1 - Pure HTML Media Player",
+            "start": 203.28,
+            "end": 205.28,
+            "text": " Thank you."
+        }
+    ],
+    "text": " Guys, in today's video, I will give you an exercise and I will also give shout out to all the people who will solve this exercise. So, please write in the comment section, challenge accepted. If you accept my challenge, I will give you a question and you will have to solve it. And it will be based on the concepts we have studied in the Sigma Web Development course. So, I am very excited to give you a question. I hope you are equally excited. Let's roll the intro. Intro So guys, I am here on my computer screen. As you can see, if you haven't accessed the playlist yet, then click here and bookmark it. Click here and save it. And if you haven't accessed the code, then it is all updated on the GitHub till video 11. And I will keep updating as the videos will keep moving forward. Now, the question I want to give you here, I will first make a folder. I will definitely name the folder video 12. I will shift right click and open with code. And everyone should accept this challenge. If you accept it, I will feel good. What you guys do here is, I will make index.html here and I will give you a question. So, the question is, you are given 12 video files. Okay, 12 files, 6 audio and 6 video. And 6 video. Design a website using HTML only. And which shows these 12 files. Okay, I will toggle word wrap here so that you can see it. Word wrap. So, you have to do that you are given 12 files. And what are the names of those files? 1.mp3, 2.mp3. So, I will tell you the names of those files. 1.mp3, 2.mp3, all the way till 6.mp3. Then you have 1.mp4, 2.mp4, all the way till 6.mp4. Okay, these are the files. So, you have to preview all these 12 files. So, I hope this will be done. It's a very simple question. And you guys should comment and write challenge accepted. Because if you accept this challenge, then you should write challenge accepted in the first version. And whoever will give me their code here, I will shout out to them. So, if you write challenge accepted, you will get shout out for sure. And you guys should comment in the comment section. So, I hope you guys will complete this. And it's a very simple problem. I know many people will say that it's very simple. One more thing I would like to say to you guys is that you should try to use as much concepts as possible to solve this question. So, this was our question for today. I hope you guys liked it. I will select this and do CTRL forward slash. And by doing CTRL forward slash, you can comment or un-comment. So, if I press CTRL forward slash, it will un-comment. And if I press CTRL forward slash again, it will comment. So, you have to complete this website. It's a very simple problem. It's a straightforward problem. Everyone should solve this. So, that's it for today. Thank you so much guys for watching this video. And I will see you next time. Thank you."
+}
