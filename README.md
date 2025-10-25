@@ -1,4 +1,4 @@
-# RAG-based-AI-Teaching-Assistant
+# RAG-based-AI-Teaching-Assistant ( under development process)
 <!--
 add the audio and video details why did in .gitignore
 tell what is the project about
