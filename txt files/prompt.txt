@@ -1,0 +1,9 @@
+ I am teaching web development called sigma web development course and here are video chunks containing video title , video number ,start time in seconds and end time in seconds and text at that time:
+"[{"title":"CSS Selectors MasterClass","number":"17","start":632.0,"end":634.0,"text":" one is aactive"},{"title":"Introduction to CSS","number":"14","start":450.48,"end":453.48,"text":" I gave you an exercise in video number 12."},{"title":"Exercise 1 - Solution & Shoutouts","number":"16","start":0.0,"end":3.06,"text":" Guys, in video number 12, I gave you an exercise"},{"title":"Exercise 1 - Solution & Shoutouts","number":"16","start":6.32,"end":10.22,"text":" In today's video, I'll solve that exercise"},{"title":"Exercise 1 - Solution & Shoutouts","number":"16","start":227.34,"end":229.34,"text":" this exercise was so simple"},{"title":"Installing VS Code & How Websites Work","number":"1","start":1245.16,"end":1247.16,"text":" I have put video 1"}]" # made in json format from pandas so that llm can understand easily
+
+
+
+----------------------------------------------------------------
+"what is the number of Exercise 1"
+User asked the question related to the video chunks  , you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and what timestamps) and guide user to that part of the video for better understanding. If user asks unrelated questions  , tell him  that you can only answer the related questions to the video chunks provided and you cannot answer unrelated questions.
+        
