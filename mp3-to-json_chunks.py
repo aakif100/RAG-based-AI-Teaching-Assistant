@@ -5,7 +5,7 @@ import torch
 import json
 import os
 
-#  Explicitly set device
+#  Explicitly set device to use gpu if available
 device = "cuda" if torch.cuda.is_available() else "cpu"
 print(f"Using device: {device}")
 
@@ -30,6 +30,7 @@ for audio in audios:
         )
         chunks = []
         for segment in result["segments"]:
+            # chunks.append({aakif,ads,dkd})
             chunks.append({
                 "number": number,
                 "title": title,

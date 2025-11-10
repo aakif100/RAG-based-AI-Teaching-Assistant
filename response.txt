@@ -1,0 +1,30 @@
+Based on the query, I'll provide the answers to the user's question regarding the videos of the Sigma Web Development Course.
+
+The user asked: "what is CSS"
+
+Here are the relevant video chunks that address this topic:
+
+1. Video Title: "Introduction to CSS"
+Video Number: 14
+Start Time: 21.84 seconds
+End Time: 24.32 seconds
+
+This is where the user first asks about what CSS stands for, and it's explained as "cascading style sheets".
+
+Later in the same video:
+Video Title: "Introduction to CSS"
+Video Number: 14
+Start Time: 257.48 seconds
+End Time: 259.48 seconds
+
+It explains that CSS is used to style.
+
+Finally, a brief mention of why you would use CSS:
+Video Title: "Introduction to CSS"
+Video Number: 14
+Start Time: 90.48 seconds
+End Time: 93.48 seconds
+
+To provide more context, CSS (Cascading Style Sheets) is a styling language used for web development that allows you to control the layout and visual appearance of websites.
+
+If you want to learn more about CSS, I recommend watching the video "Introduction to CSS" in the Sigma Web Development Course, where these timestamps can be found.

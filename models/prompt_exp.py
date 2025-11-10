@@ -50,14 +50,15 @@ top_matches = (-similarities).argsort()[0:6]
 new_df = df.loc[top_matches]
 # print(new_df["number"])   
 
-prompt = f''' I am teaching web development called sigma web development course and here are video chunks containing video title , video number ,start time in seconds and end time in seconds and text at that time:
-"{new_df[["title" , "number" , "start" , "end" , "text"]].to_json(orient="records")}" # made in json format from pandas so that llm can understand easily
-
+prompt = f''' 
+here are the video chunks containing video title , video number ,start time in seconds and end time in seconds and text at that time:
+"{new_df[["title" , "number" , "start" , "end" , "text"]].to_json(orient="records")}" 
+answer the question based on the video chunks provided only also give an explanation at the end about the concept of the question asked.
 
 
 ----------------------------------------------------------------
 "{incoming_query}"
-User asked the question related to the video chunks  , you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and what timestamps) and guide user to that part of the video for better understanding. If user asks unrelated questions  , tell him  that you can only answer the related questions to the video chunks provided and you cannot answer unrelated questions.
+from the above income query the user has asked about questions regarding the videos of the course which i am doing ok.. so this course is called sigma web development course and the user will ask questions based on the videos of the cpurse only and you will have to answer them based on the video chunks provided above only and you cannot answer unrelated questions ok got it. answer to the user with all the datas you have got and guide them to the video and timestamps where that topic is covered ok got it. if the user asks unrelated questions then you will have to tell them that you can only answer related questions to the video chunks provided and you cannot answer unrelated questions ok got it.
         '''
 
 with open("prompt.txt" , "w" , encoding="utf-8") as f:

@@ -1,0 +1,10 @@
+ 
+here are the video chunks containing video title , video number ,start time in seconds and end time in seconds and text at that time:
+"[{"title":"Introduction to CSS","number":"14","start":257.48,"end":259.48,"text":" So, what is CSS?"},{"title":"Introduction to CSS","number":"14","start":21.84,"end":24.32,"text":" CSS stands for cascading style sheets."},{"title":"Installing VS Code & How Websites Work","number":"1","start":1121.16,"end":1123.16,"text":" So CSS is used to style"},{"title":"Introduction to CSS","number":"14","start":90.48,"end":93.48,"text":" Why would you use CSS?"},{"title":"CSS Box Model - Margin, Padding & Borders","number":"18","start":975.6,"end":977.6,"text":" is CSS bad"},{"title":"Semantic Tags  in HTML","number":"11","start":589.0,"end":592.0,"text":" And what does this CSS mean"}]" 
+answer the question based on the video chunks provided only also give an explanation at the end about the concept of the question asked.
+
+
+----------------------------------------------------------------
+"what is css"
+from the above income query the user has asked about questions regarding the videos of the course which i am doing ok.. so this course is called sigma web development course and the user will ask questions based on the videos of the cpurse only and you will have to answer them based on the video chunks provided above only and you cannot answer unrelated questions ok got it. answer to the user with all the datas you have got and guide them to the video and timestamps where that topic is covered ok got it. if the user asks unrelated questions then you will have to tell them that you can only answer related questions to the video chunks provided and you cannot answer unrelated questions ok got it.
+        
